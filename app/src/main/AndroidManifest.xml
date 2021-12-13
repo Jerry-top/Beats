@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.dss.beats_music">
+
+    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+    <uses-permission android:name="android.permission.INTERNET" />
+    <uses-permission android:name="android.permission.FOREGROUND_SERVICE" />
+
+    <application
+        android:name="com.dss.beats_music.MyApplication"
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:screenOrientation="portrait"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme"
+        android:usesCleartextTraffic="true">
+        <activity android:name="com.dss.beats_music.me.AboutActivity"
+            android:theme="@style/PlayActivityTheme"></activity>
+        <activity android:name="com.dss.beats_music.me.SettingActivity" />
+        <activity android:name="com.dss.beats_music.me.SearchResultActivity" />
+
+        <activity
+            android:name="com.dss.beats_music.me.SearchActivity"
+            android:windowSoftInputMode="stateVisible" />
+        <activity android:name="com.dss.beats_music.me.HomePageActivity" />
+        <activity
+            android:name="com.dss.beats_music.discover.DailyRecommendActivity"
+            android:theme="@style/PlayListTheme" />
+
+        <service
+            android:name="com.dss.beats_music.service.MusicService"
+            android:enabled="true"
+            android:exported="true" />
+
+        <activity android:name="com.dss.beats_music.util.MyWebView" />
+        <activity
+            android:name="com.dss.beats_music.me.PlayListDetailActivity"
+            android:theme="@style/PlayListTheme" />
+        <activity
+            android:name="com.dss.beats_music.entity.StartActivity"
+            android:theme="@style/StartTheme">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name="com.dss.beats_music.me.PlayActivity"
+            android:theme="@style/PlayActivityTheme" />
+        <activity
+            android:name="com.dss.beats_music.login.VerifyCodeActivity"
+            android:windowSoftInputMode="stateVisible" />
+        <activity
+            android:name="com.dss.beats_music.login.SetPasswordActivity"
+            android:windowSoftInputMode="stateVisible" />
+        <activity
+            android:name="com.dss.beats_music.login.PasswordActivity"
+            android:windowSoftInputMode="stateVisible" />
+        <activity android:name="com.dss.beats_music.me.LocalMusicActivity">
+
+        </activity>
+        <activity
+            android:name="com.dss.beats_music.login.LoginActivity"
+            android:windowSoftInputMode="stateVisible" />
+        <activity
+            android:name="com.dss.beats_music.login.EntryActivity"
+            android:theme="@style/EntryTheme" />
+        <activity
+            android:name="com.dss.beats_music.MainActivity"
+            android:configChanges="keyboard|keyboardHidden|orientation|screenSize|screenLayout|smallestScreenSize|uiMode"
+            android:launchMode="singleTask"
+            android:screenOrientation="portrait"
+            android:theme="@style/TranslucentStatusTheme" />
+    </application>
+
+</manifest>

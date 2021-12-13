@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/AndroidStudioProjects/Beats_music/app/src/main/res/drawable/ic_more.xml" value="0.14270833333333333" />
+        <entry key="..\:/AndroidStudioProjects/Beats_music/app/src/main/res/layout/activity_main.xml" value="0.24947916666666667" />
+        <entry key="..\:/AndroidStudioProjects/Beats_music/app/src/main/res/layout/custom_view_reget.xml" value="0.24947916666666667" />
+        <entry key="..\:/AndroidStudioProjects/Beats_music/app/src/main/res/layout/dialog/layout/custom_view_list_content_with_icon.xml" value="0.24947916666666667" />
+        <entry key="..\:/AndroidStudioProjects/Beats_music/app/src/main/res/layout/dialog/layout/custom_view_song_header.xml" value="0.24947916666666667" />
+        <entry key="..\:/AndroidStudioProjects/Beats_music/app/src/main/res/layout/dialog/layout/dialog_edit_view.xml" value="0.24947916666666667" />
+        <entry key="..\:/AndroidStudioProjects/Beats_music/app/src/main/res/layout/dialog/layout/fragment_cloud_city.xml" value="0.1265625" />
+        <entry key="..\:/AndroidStudioProjects/Beats_music/app/src/main/res/layout/dialog/layout/item_list_content.xml" value="0.24947916666666667" />
+        <entry key="..\:/AndroidStudioProjects/Beats_music/app/src/main/res/layout/dialog/layout/item_playlist_dialog.xml" value="0.24947916666666667" />
+        <entry key="..\:/AndroidStudioProjects/Beats_music/app/src/main/res/layout/dialog/layout/playlist_content.xml" value="0.24947916666666667" />
+        <entry key="..\:/AndroidStudioProjects/Beats_music/app/src/main/res/layout/dialog/layout/text_header.xml" value="0.24947916666666667" />
+        <entry key="..\:/AndroidStudioProjects/Beats_music/app/src/main/res/layout/fragment_discover.xml" value="0.2" />
+        <entry key="..\:/AndroidStudioProjects/Beats_music/app/src/main/res/layout/fragment_me.xml" value="0.24947916666666667" />
+        <entry key="..\:/AndroidStudioProjects/Beats_music/app/src/main/res/layout/item_banner.xml" value="0.1265625" />
+        <entry key="..\:/AndroidStudioProjects/Beats_music/app/src/main/res/layout/menu/bottom_menu.xml" value="0.1265625" />
+        <entry key="..\:/AndroidStudioProjects/Beats_music/app/src/main/res/layout/menu/nav_menu.xml" value="0.1265625" />
+        <entry key="..\:/AndroidStudioProjects/Beats_music/app/src/main/res/layout/menu/toobar.xml" value="0.24947916666666667" />
+        <entry key="..\:/AndroidStudioProjects/Beats_music/app/src/main/res/layout/nav_header.xml" value="0.1265625" />
+        <entry key="..\:/AndroidStudioProjects/Beats_music/app/src/main/res/layout/text_header.xml" value="0.24947916666666667" />
+        <entry key="..\:/AndroidStudioProjects/Beats_music/app/src/main/res/menu/menu_toolbar.xml" value="0.1265625" />
+        <entry key="..\:/AndroidStudioProjects/SouthWindMusic-master/app/src/main/res/drawable-v21/ripple_circle.xml" value="0.26979166666666665" />
+        <entry key="..\:/AndroidStudioProjects/SouthWindMusic-master/app/src/main/res/drawable-v21/ripple_corner.xml" value="0.26979166666666665" />
+        <entry key="..\:/AndroidStudioProjects/SouthWindMusic-master/app/src/main/res/drawable/ic_return.xml" value="0.26979166666666665" />
+        <entry key="..\:/AndroidStudioProjects/SouthWindMusic-master/app/src/main/res/drawable/me_item_background.xml" value="0.26979166666666665" />
+        <entry key="..\:/AndroidStudioProjects/SouthWindMusic-master/app/src/main/res/layout/activity_entry.xml" value="0.23278985507246377" />
+        <entry key="..\:/AndroidStudioProjects/SouthWindMusic-master/app/src/main/res/layout/activity_local_music.xml" value="0.25364583333333335" />
+        <entry key="..\:/AndroidStudioProjects/SouthWindMusic-master/app/src/main/res/layout/activity_login.xml" value="0.448566610455312" />
+        <entry key="..\:/AndroidStudioProjects/SouthWindMusic-master/app/src/main/res/layout/activity_main.xml" value="0.23278985507246377" />
+        <entry key="..\:/AndroidStudioProjects/SouthWindMusic-master/app/src/main/res/layout/activity_my_web_view.xml" value="0.1793478260869565" />
+        <entry key="..\:/AndroidStudioProjects/SouthWindMusic-master/app/src/main/res/layout/activity_password.xml" value="0.23278985507246377" />
+        <entry key="..\:/AndroidStudioProjects/SouthWindMusic-master/app/src/main/res/layout/activity_play_list_detail.xml" value="0.22826086956521738" />
+        <entry key="..\:/AndroidStudioProjects/SouthWindMusic-master/app/src/main/res/layout/activity_search.xml" value="0.12335359675785208" />
+        <entry key="..\:/AndroidStudioProjects/SouthWindMusic-master/app/src/main/res/layout/activity_set_password.xml" value="0.23278985507246377" />
+        <entry key="..\:/AndroidStudioProjects/SouthWindMusic-master/app/src/main/res/layout/activity_start.xml" value="0.1" />
+        <entry key="..\:/AndroidStudioProjects/SouthWindMusic-master/app/src/main/res/layout/activity_verify_code.xml" value="0.23278985507246377" />
+        <entry key="..\:/AndroidStudioProjects/SouthWindMusic-master/app/src/main/res/layout/custom_view_reget.xml" value="0.23278985507246377" />
+        <entry key="..\:/AndroidStudioProjects/SouthWindMusic-master/app/src/main/res/layout/custom_view_song_bar.xml" value="0.23278985507246377" />
+        <entry key="..\:/AndroidStudioProjects/SouthWindMusic-master/app/src/main/res/layout/fragment_discover.xml" value="0.11322463768115942" />
+        <entry key="..\:/AndroidStudioProjects/SouthWindMusic-master/app/src/main/res/layout/fragment_me.xml" value="0.25364583333333335" />
+        <entry key="..\:/AndroidStudioProjects/SouthWindMusic-master/app/src/main/res/layout/item_banner.xml" value="0.1793478260869565" />
+        <entry key="..\:/AndroidStudioProjects/SouthWindMusic-master/app/src/main/res/layout/item_play_list.xml" value="0.23278985507246377" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
